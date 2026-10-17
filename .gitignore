@@ -1,0 +1,10 @@
+animals/
+animals copy/
+animals_split/
+train/
+test/
+augmented_train/
+untitled folder/
+*.pdf
+.DS_Store
+__pycache__/
